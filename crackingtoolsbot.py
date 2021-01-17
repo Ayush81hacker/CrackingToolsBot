@@ -75,13 +75,13 @@ async def Devsexpo(event):
         )
     elif Counter >= 1:
         file1 = open("goood.txt", "a")
-        file1.write("\nCHECKED BY UltraBot. GET YOUR OWN UltraBot FROM @DevsExpo. \n")
+        file1.write("\nCHECKED BY UltraBot \n")
         file1.close()
         ok.delete()
         await UltraBot.send_file(
             event.chat_id,
             "goood.txt",
-            caption=f"**PROXIES CHECKED**\n**GOOD PROXIES: ** {Counter}\n\n**CHECKED BY UltraBot. GET YOUR OWN UltraBot FROM @DevsExpo.**",
+            caption=f"**PROXIES CHECKED**\n**GOOD PROXIES: ** {Counter}\n\n**CHECKED BY UltraBot.**",
         )
         os.remove(escobar)
         os.remove("goood.txt")
@@ -172,7 +172,7 @@ async def Devsexpo(event):
 🔱 **Checked By:-** {event.sender_id}
 
 **✅Better Luck Next Time, Thanks For Using Me. 
-Bot Made By @DevsExpo**"""
+Bot Made By @AyushZ_iz_Pro**"""
 
         beautiful = f"""
 💖 **Checked Zee5 Account**
@@ -184,8 +184,8 @@ Bot Made By @DevsExpo**"""
 
 🔱 **Checked By:-** {event.sender_id}
 
-**✅Send Screenshot To @DevsExpo. Thanks For Using Me. 
-Bot Made By @DevsExpo**"""
+**✅Send Screenshot To @NinjaGiveawayZBot. Thanks For Using Me. 
+Bot Made By @AyushZ_iz_Pro**"""
         if meke.get("token"):
             await event.reply(beautiful)
         else:
@@ -281,7 +281,7 @@ async def Devsexpo(event):
 🔱 **Checked By:-** {event.sender_id}
 
 **✅Better Luck Next Time, Thanks For Using Me. 
-Bot Made By @DevsExpo**"""
+Bot Made By @NinjaGiveawayZ**"""
 
         beautiful = f"""
 💖 **Checked Nord Account**
@@ -293,8 +293,8 @@ Bot Made By @DevsExpo**"""
 
 🔱 **Checked By:-** {event.sender_id}
 
-**✅Send Screenshot To @DevsExpo. Thanks For Using Me. 
-Bot Made By @DevsExpo**"""
+**✅Send Screenshot To @NinjaGiveawaySBot. Thanks For Using Me. 
+Bot Made By @NinjaGiveawayZ**"""
         if meke.get("token"):
             await event.reply(beautiful)
         else:
@@ -386,7 +386,7 @@ async def Devsexpo(event):
 🔱 **Checked By:-** {event.sender_id}
 
 **✅Better Luck Next Time, Thanks For Using Me. 
-Bot Made By @DevsExpo**"""
+Bot Made By @NinjaGiveawayZ**"""
 
         beautiful = f"""
 💖 **Checked Vortex Account**
@@ -398,8 +398,8 @@ Bot Made By @DevsExpo**"""
 
 🔱 **Checked By:-** {event.sender_id}
 
-**✅Send Screenshot To @DevsExpo. Thanks For Using Me. 
-Bot Made By @DevsExpo**"""
+**✅Send Screenshot To @NinjaGiveawaysBot. Thanks For Using Me. 
+Bot Made By @NinjaGiveawayZ**"""
         if meke.get("token"):
             await event.reply(beautiful)
         else:
@@ -459,7 +459,7 @@ async def no_help(event):
 - /vortex <email:password> - Checks One Account
 - /vortex combo - Reply To Combos File And Limit is 20.
 - /proxy - Reply To Proxy File Only, Check Your Proxies
-BY @DevsExpo
+BY @NinjaGiveawayZ
     """
     await event.reply(f'**Hai, {firstname} !, Here is List Of Cmds \n{lol_br}**')
                 
