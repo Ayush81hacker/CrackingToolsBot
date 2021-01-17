@@ -4,7 +4,7 @@
 
 
 # Deploy-To-Heroku
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DevsExpo/CrackingToolsBot/blob/main)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ayush81hacker/CrackingToolsBot/blob/main)
 
 # Licence
 Copyright (C) 2021 DevsExpo
